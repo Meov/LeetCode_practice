@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chao-zhang/桌面/data_strcture/leetcode/209MinimumSizeSubarraySum/main.cpp
+iostream
+-
+vector
+-
+
