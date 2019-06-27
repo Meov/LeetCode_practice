@@ -24,7 +24,8 @@ public:
 
 
 
-
+    //时间复杂度O(n)
+    //空间复杂度O(1) 
     vector<int> twoSum2(vector<int>& numbers, int target) {
         int l = 0, r = numbers.size() - 1;  //[0.....n-1]       
         while(numbers[l]+numbers[r]!=target){
