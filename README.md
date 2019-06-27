@@ -1,2 +1,2 @@
 # LeetCode_practice
-leetcode联系项目
+leetcode练习项目
