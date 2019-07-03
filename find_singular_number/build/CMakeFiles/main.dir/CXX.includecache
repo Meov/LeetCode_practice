@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/chao-zhang/桌面/data_strcture/leetcode/209MinimumSizeSubarraySum/main.cpp
+/home/chao-zhang/桌面/data_strcture/leetcode/find_singular_number/main.cpp
 iostream
--
-vector
--
-cassert
 -
 
